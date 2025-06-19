@@ -2,16 +2,16 @@
 
 export const APP_CONFIG = {
   // URL base de tu API principal
-  API_BASE_URL: 'https://theoriginallab-api-automatizacionestol-prod.m0oqwu.easypanel.host',
+  API_BASE_URL: '',
   
   // API Key para autenticación con tu API
-  API_KEY: 'lety',
+  API_KEY: '',
   
   // Token de la aplicación (IMPORTANTE: Este va en el parámetro XjHUqpCaMIclqn2sdgVk)
-  APP_TOKEN: 'csbjsN9jvhrhNWYEU0Uc',
+  APP_TOKEN: '',
   
   // Clave secreta
-  SECRET_KEY: '5ZcaBXG4P3fImUskQpBC',
+  SECRET_KEY: '',
   
   // URL de la API de login externa
   LOGIN_API_URL: 'https://originalauth.com/login',
