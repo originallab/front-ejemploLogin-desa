@@ -114,11 +114,11 @@ module.exports = {
 Crea un archivo `.env` en la raíz del proyecto:
 
 ```env
-REACT_APP_API_BASE_URL=https://theoriginallab-api-automatizacionestol-prod.m0oqwu.easypanel.host
-REACT_APP_API_KEY=lety
-REACT_APP_APP_TOKEN=csbjsN9jvhrhNWYEU0Uc
-REACT_APP_SECRET_KEY=5ZcaBXG4P3fImUskQpBC
-REACT_APP_LOGIN_API_URL=https://originalauth.com/login
+REACT_APP_API_BASE_URL=*****
+REACT_APP_API_KEY=****
+REACT_APP_APP_TOKEN=****
+REACT_APP_SECRET_KEY=*****
+REACT_APP_LOGIN_API_URL=******
 ```
 
 ## ⚙️ Configuración de APIs
@@ -157,8 +157,8 @@ Recibe datos del login externo:
 ```json
 {
   "session": "1750267856255_eeceffiadlb",
-  "token_app": "csbjsN9jvhrhNWYEU0Uc", 
-  "secret_key": "5ZcaBXG4P3fImUskQpBC",
+  "token_app": "****", 
+  "secret_key": "****",
   "email": "usuario@ejemplo.com",
   "name": "Usuario Demo",
   "phone": "6184654546",
